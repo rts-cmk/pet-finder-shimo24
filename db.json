@@ -1,0 +1,31 @@
+{
+  "dogs": [
+    {
+      "id": 1,
+      "image": "/images/Dog-Image 1.png",
+      "breed": "Greyhound",
+      "gender": "male",
+      "location": "New York City",
+      "short_description": "Taking care of a pet is my favorite, it helps me to ease my mind.",
+      "long_description": "Greyhounds are gentle, quiet and very affectionate dogs. They enjoy calm walks and relaxing with their owners, and they usually get along well with other dogs and people."
+    },
+    {
+      "id": 2,
+      "image": "/images/dog_image2.png",
+      "breed": "Dobermann",
+      "gender": "male",
+      "location": "Atlanta",
+      "short_description": "Taking care of a pet is my favorite, it helps me to ease my mind.",
+      "long_description": "Dobermanns are loyal, intelligent and protective dogs. They form strong bonds with their families and are happiest when they have a job to do and regular mental and physical activity."
+    },
+    {
+      "id": 3,
+      "image": "/images/dog_image 3.png",
+      "breed": "Pomeranian",
+      "gender": "female",
+      "location": "Philadelphia",
+      "short_description": "Taking care of a pet is my favorite, it helps me to ease my mind.",
+      "long_description": "Pomeranians are small, fluffy and full of personality. They are playful, curious and love being the center of attention in the family."
+    }
+  ]
+}
